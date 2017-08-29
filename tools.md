@@ -40,7 +40,6 @@ nav-short: true
                </div>
            </div>
 
-           <div class="row">
                <div class="col-md-6 filter cloud">
                    <div class="each-item">
                        <a href="https://youtu.be/rmeAzF2dCSQ">
