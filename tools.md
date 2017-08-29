@@ -40,20 +40,20 @@ nav-short: true
                </div>
            </div>
 
-               <div class="col-md-6 filter cloud">
-                   <div class="each-item">
-                       <a href="https://youtu.be/rmeAzF2dCSQ">
-                           <img class="port-image" src="/img/crala.png" alt="">
-                           <div class="cap1">
-                               <h3>CRALA</h3>
-                               <p>A tool for modeling Cloud robotic systems.</p>
-                           </div>
-                           <div class="cap2">
-                               <p class="text-center">Visit</p>
-                           </div>
-                       </a>   
-                   </div>
+           <div class="col-md-6 filter cloud">
+               <div class="each-item">
+                   <a href="https://youtu.be/rmeAzF2dCSQ">
+                       <img class="port-image" src="/img/crala.png" alt="">
+                       <div class="cap1">
+                           <h3>CRALA</h3>
+                           <p>A tool for modeling Cloud robotic systems.</p>
+                       </div>
+                       <div class="cap2">
+                           <p class="text-center">Visit</p>
+                       </div>
+                   </a>   
                </div>
+           </div>
 
            <div class="col-md-6 filter architecture">
                <div class="each-item">
