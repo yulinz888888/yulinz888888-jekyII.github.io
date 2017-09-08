@@ -21,6 +21,9 @@ Trustworthy Information Systems (IJDTIS), vol. 2, no. 2, pages 17-39, 2011.
 
 
 ### Conference
+
+J. Luo, L. Zhang and H. Y. Zhang, **Design of a cloud robotics middleware based on web service technology**, 2017 18th International Conference on Advanced Robotics (ICAR), Hong Kong, China, 2017, pp. 487-492.
+
 C. Huang, L. Zhang, T. Liu, and H.Y. Zhang, **A Control Middleware for Cloud Robotics**, 13th IEEE International Conference on Information and Automation (IEEE ICIA 2016), Ningbo, China, 2016.
 
 Lei Zhang, Huaxi (Yulin) Zhang, Zheng Fang, Xianbo Xiang, Marianne Huchard, and Rene Zapata. **Towards an architecture-centric approach to manage variability of cloud robotics.** In 6th International Workshop on Domain-Specific Languages and models for ROBotic systems (DSLROB2015), Hamburg, German, Semptember 2015.
