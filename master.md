@@ -32,6 +32,7 @@ title: Master Industrie Numérique (Robotics)
   </div>
 </div>
 
+---
 
 ## SECTEURS D’ACTIVITÉ
 
