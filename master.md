@@ -73,26 +73,16 @@ title: Master Industrie Numérique (Master Robotique)
 > 33% de travaux pratiques et projets  
 [Programme de formation](http://www.insset.u-picardie.fr/images/Plaquettes/Master-1ere-Annee-Genie-Industriel-IN.pdf)
 
+|  Master 1 | Master 2 |
+| :-------- | :-------- |
+| - Capteurs et instrumentations <br/> - Robotique <br/> - Outils de modélisation mécanique <br/> - Objets connectés <br/> - Automatique des systèmes linéaires <br/> - Conception mécanique <br/> - Initiation au Cloud <br/> - Programmation et algorithmique <br/> - Outils mathématiques <br/>   | - Conception des algorithmes en temps réel <br/> - Normes et certifications <br/> - Robotique mobile <br/> - Commande des robots <br/> - Intelligence artificiel  <br/> - Architecture et OS pour la robotique <br/> - Automatique des systèmes non-linéaires <br/> - Traitement des signaux numériques <br/> - Séminaires Industriels   |
+| - Langage de programmation <br/> - Programmation et database <br/> - Outils numériques de conception <br/> - Objets connectés (avancé) <br/> - Vision et traitement d'images <br/> - Perception robotique <br/> - Management et suivi de projet <br/> - Ingénierie de développement   | - Localisation et navigation de robots <br/> - Big Data <br/> - Administration et programmation du Cloud <br/> - Séminaires Industriels <br/> - Création d’entreprise <br/>  <br/>  <br/> <br/>  |
+
 ### S1
-* Capteurs et instrumentations
-* Robotique
-* Outils de modélisation mécanique
-* Objets connectés 
-* Automatique des systèmes linéaires
-* Conception mécanique
-* Initiation au Cloud
-* Programmation et algorithmique
-* Outils mathématiques
+
 
 ### S2
-* Management et suivi de projet
-* Ingénierie de développement
-* Langage de programmation
-* Programmation et database
-* Outils numériques de conception (introduction)
-* Objets connectés (avancé)
-* Vision et traitement d'images
-* Perception robotique
+
 
 <!-- <div class="row">
   <div class="col-lg-6 col-md-8 col-xs-10 thumb">
