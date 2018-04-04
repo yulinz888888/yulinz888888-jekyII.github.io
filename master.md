@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Master Industrie Numérique (Robotics)
+title: Master Industrie Numérique (Master Robotique)
 ---
 
 ![Image of Robots]({{ site.baseurl }}/master/img/bandeau-IN-web.png)
@@ -213,3 +213,10 @@ Mail : yulin.zhang@u-picardie.fr
 Madame Noëlle HETUIN, Tél : 03 23 62 89 66
 
 Mail : formation.continue@insset.u-picardie.fr 
+
+---
+
+## LOCALISATION
+
+Saint-Quentin est une ville Art Déco entre Lille, Paris et Amiens
+
