@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Master Industrie Numérique (Master Robotique)
+title: Master Industrie Numérique (Master Robotique) INSSET/UPJV
 ---
 
 ![Image of Robots]({{ site.baseurl }}/master/img/bandeau-IN-web.png)
