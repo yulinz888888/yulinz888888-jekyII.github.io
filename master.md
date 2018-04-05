@@ -6,6 +6,14 @@ title: Master Industrie Numérique (Master Robotique) INSSET/UPJV
 ![Image of Robots]({{ site.baseurl }}/master/img/bandeau-IN-web.png)
 
 
+<a href="https://twitter.com/robotics_insset" title="Twitter">
+              <span class="fa-stack fa-lg" aria-hidden="true">
+                <i class="fa fa-circle fa-stack-2x"></i>
+                <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+              </span>
+              <span class="sr-only">Twitter</span>
+            </a>
+
 ## Points forts de la formation
 
 > Une formation au coeur des enjeux de l’Industrie du Futur.  
