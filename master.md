@@ -13,9 +13,10 @@ title: Master Industrie Numérique (Master Robotique) INSSET/UPJV
             </a>
             </p>
 
-            
+
 ![Image of Robots]({{ site.baseurl }}/master/img/bandeau-IN-web.png)
 
+Le Master Professionnel spécialité en Génie Industriel, parcours Robotique (Industrie numérique), est une formation en initiale ou alternance.
 
 ## Points forts de la formation
 
@@ -59,7 +60,7 @@ title: Master Industrie Numérique (Master Robotique) INSSET/UPJV
 
 ---
 
-## Partenaires
+## PARTENAIRES
 
 > L'alternance permet d'allier études et mise en pratique en entreprise  
 [Le guide de l'alternant](http://www.insset.u-picardie.fr/images/Guide_de_lalternant.pdf)
