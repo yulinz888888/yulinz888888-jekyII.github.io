@@ -3,8 +3,6 @@ layout: page
 title: Master Industrie Numérique (Master Robotique) INSSET/UPJV
 ---
 
-![Image of Robots]({{ site.baseurl }}/master/img/bandeau-IN-web.png)
-
 <p align="center">
 <a href="https://twitter.com/robotics_insset" title="Twitter">
               <span class="fa-stack fa-lg" aria-hidden="true">
@@ -14,6 +12,10 @@ title: Master Industrie Numérique (Master Robotique) INSSET/UPJV
               <span class="sr-only">Twitter</span>
             </a>
             </p>
+
+            
+![Image of Robots]({{ site.baseurl }}/master/img/bandeau-IN-web.png)
+
 
 ## Points forts de la formation
 
