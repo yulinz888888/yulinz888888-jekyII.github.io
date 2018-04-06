@@ -19,6 +19,7 @@ title: Master Industrie Numérique (Master Robotique) INSSET/UPJV
 Le Master Professionnel spécialité en Génie Industriel, parcours Robotique (Industrie numérique), est une formation en initiale ou alternance.
 
 [http://www.insset.u-picardie.fr/formations/master-genie-industriel/industrie-numerique](http://www.insset.u-picardie.fr/formations/master-genie-industriel/industrie-numerique)
+
 ## Points forts de la formation
 
 > Une formation au coeur des enjeux de l’Industrie du Futur.  
@@ -173,9 +174,10 @@ Le Master Professionnel spécialité en Génie Industriel, parcours Robotique (I
 
 ## ADMISSION 
 
-> Campagne de candidature en M1 du 16 Avril au 16 Mai  
+> Campagne de candidature en M1 du 16 Avril au 1 Juin  
 [Dossier de candidature en ligne](https://www.u-picardie.fr/ecandidat/#!accueilView)
 
+![Ecandidat]({{ site.baseurl }}/master/img/eCandidat.jpeg)
 
 <div class="row">
   <div class="col-lg-6 col-md-8 col-xs-10 thumb">
