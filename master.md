@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Master Industrie Numérique (Master Robotique) INSSET/UPJV
+title: Master Robotique（Master Industrie Numérique ) INSSET/UPJV
 ---
 
 <p align="center">
