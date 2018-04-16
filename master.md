@@ -70,7 +70,7 @@ subtitle: Formation en alternance/ Formation initial
 ## PARTENAIRES
 
 > L'alternance permet d'allier études et mise en pratique en entreprise  
-[Le guide de l'alternant](http://www.insset.u-picardie.fr/images/Guide_de_lalternant.pdf)
+<!-- [Le guide de l'alternant](http://www.insset.u-picardie.fr/images/Guide_de_lalternant.pdf) -->
 
 
 <div class="row">
