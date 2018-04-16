@@ -1,10 +1,13 @@
 ---
 layout: page
-title: Master Robotique（Master Industrie Numérique ) INSSET/UPJV
+title: Master Robotique（Master Industrie Numérique) INSSET/UPJV
+subtitle: Formation en alternance/ Formation initial
 ---
 
+<p align="center">Mis à jour le 16 avril 2018</p>
+
 <p align="center">
-<a href="https://twitter.com/robotics_insset" title="Twitter">
+<a href="https://twitter.com/robotics_insset" title="master robotique twitter">
               <span class="fa-stack fa-lg" aria-hidden="true">
                 <i class="fa fa-circle fa-stack-2x"></i>
                 <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
@@ -16,11 +19,13 @@ title: Master Robotique（Master Industrie Numérique ) INSSET/UPJV
 
 ![Image of Robots]({{ site.baseurl }}/master/img/bandeau-IN-web.png)
 
-Le Master Professionnel spécialité en Génie Industriel, parcours Robotique (Industrie numérique), est une formation en initiale ou alternance.
+## PRESENTATION ET OBJECTIFS
+
+ Le Master robotique (UPJV) est une formation en initiale ou alternance. Ce Master se concentre sur la robotique avancée (robots mobiles, bras robotiques). Il traite des techniques modernes d'ingénierie des systèmes pour la modélisation, la simulation, l'optimisation, l'analyse et le contrôle d'une variété de systèmes de robotique. Il prend également en compte la modélisation et la perception de l'environnement extérieur et intérieur.
 
 [http://www.insset.u-picardie.fr/formations/master-genie-industriel/industrie-numerique](http://www.insset.u-picardie.fr/formations/master-genie-industriel/industrie-numerique)
 
-## Points forts de la formation
+## POINTS FORTS DE LA FORMATION
 
 > Une formation au coeur des enjeux de l’Industrie du Futur.  
 [Plaquette de la formation](http://www.insset.u-picardie.fr/images/Plaquettes/Industrie-numerique-A4-1.0.pdf)
@@ -82,12 +87,12 @@ Le Master Professionnel spécialité en Génie Industriel, parcours Robotique (I
 </div>
 ---
 
-## PROGRAMME
+## Contenu des cours
 
 > 33% de travaux pratiques et projets  
 [Programme de formation](http://www.insset.u-picardie.fr/images/Plaquettes/Master-1ere-Annee-Genie-Industriel-IN.pdf)
 
-|  Master 1 | Master 2 |
+|  M1 | M2 |
 | :-------- | :-------- |
 | - Capteurs et instrumentations <br/> - Robotique <br/> - Outils de modélisation mécanique <br/> - Objets connectés <br/> - Automatique des systèmes linéaires <br/> - Conception mécanique <br/> - Initiation au Cloud <br/> - Programmation et algorithmique <br/> - Outils mathématiques <br/>   | - Conception des algorithmes en temps réel <br/> - Normes et certifications <br/> - Robotique mobile <br/> - Commande des robots <br/> - Intelligence artificiel  <br/> - Architecture et OS pour la robotique <br/> - Automatique des systèmes non-linéaires <br/> - Traitement des signaux numériques <br/> - Séminaires Industriels   |
 | - Langage de programmation <br/> - Programmation et database <br/> - Outils numériques de conception <br/> - Objets connectés (avancé) <br/> - Vision et traitement d'images <br/> - Perception robotique <br/> - Management et suivi de projet <br/> - Ingénierie de développement   | - Localisation et navigation de robots <br/> - Big Data <br/> - Administration et programmation du Cloud <br/> - Séminaires Industriels <br/> - Création d’entreprise <br/>  <br/>  <br/> <br/>  |
@@ -115,27 +120,27 @@ Le Master Professionnel spécialité en Génie Industriel, parcours Robotique (I
 <div class="row">
   <div class="col-lg-6 col-md-8 col-xs-10 thumb">
     <a class="thumbnail" href="#">
-      <img class="img-fluid" src="/master/img/robot1.jpg" alt="">
+      <img class="img-fluid" src="/master/img/robot1.jpg" alt="master robotique">
     </a>
   </div>
   <div class="col-lg-6 col-md-8 col-xs-10 thumb">
     <a class="thumbnail" href="#">
-      <img class="img-fluid" src="/master/img/robot2.jpg" alt="">
+      <img class="img-fluid" src="/master/img/robot2.jpg" alt="master robotique">
     </a>
   </div>
   <div class="col-lg-6 col-md-8 col-xs-10 thumb">
     <a class="thumbnail" href="#">
-      <img class="img-fluid" src="/master/img/robot3.jpg" alt="">
+      <img class="img-fluid" src="/master/img/robot3.jpg" alt="master robotique">
     </a>
   </div>
   <div class="col-lg-6 col-md-8 col-xs-10 thumb">
     <a class="thumbnail" href="#">
-      <img class="img-fluid" src="/master/img/robot5.jpg" alt="">
+      <img class="img-fluid" src="/master/img/robot5.jpg" alt="master robotique">
     </a>
   </div>
   <div class="col-lg-6 col-md-8 col-xs-10 thumb">
     <a class="thumbnail" href="#">
-      <img class="img-fluid" src="/master/img/robot4.jpg" alt="">
+      <img class="img-fluid" src="/master/img/robot4.jpg" alt="master robotique">
     </a>
   </div>
 </div>
@@ -150,22 +155,22 @@ Le Master Professionnel spécialité en Génie Industriel, parcours Robotique (I
 <div class="row">
   <div class="col-lg-6 col-md-8 col-xs-10 thumb">
     <a class="thumbnail" href="#">
-      <img class="img-fluid" src="/master/img/competition1.jpg" alt="">
+      <img class="img-fluid" src="/master/img/competition1.jpg" alt="master robotique">
     </a>
   </div>
   <div class="col-lg-6 col-md-8 col-xs-10 thumb">
     <a class="thumbnail" href="#">
-      <img class="img-fluid" src="/master/img/competition2.jpg" alt="">
+      <img class="img-fluid" src="/master/img/competition2.jpg" alt="master robotique">
     </a>
   </div>
   <div class="col-lg-6 col-md-8 col-xs-10 thumb">
     <a class="thumbnail" href="#">
-      <img class="img-fluid" src="/master/img/robotA.jpg" alt="">
+      <img class="img-fluid" src="/master/img/robotA.jpg" alt="master robotique">
     </a>
   </div>
   <div class="col-lg-6 col-md-8 col-xs-10 thumb">
     <a class="thumbnail" href="#">
-      <img class="img-fluid" src="/master/img/robotA1.jpg" alt="">
+      <img class="img-fluid" src="/master/img/robotA1.jpg" alt="master robotique">
     </a>
   </div>
 </div>
@@ -182,7 +187,7 @@ Le Master Professionnel spécialité en Génie Industriel, parcours Robotique (I
 <div class="row">
   <div class="col-lg-6 col-md-8 col-xs-10 thumb">
     <a class="thumbnail" href="#">
-      <img class="img-fluid" src="/master/img/cursus.png" alt="">
+      <img class="img-fluid" src="/master/img/cursus.png" alt="master robotique inscription">
     </a>
   </div>
 </div>
