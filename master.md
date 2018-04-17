@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Master Robotique（Master Industrie Numérique) INSSET/UPJV
-subtitle: Formation en alternance/ Formation initial
+subtitle: Formation en alternance/ Formation initial à Saint Quentin
 ---
 
 <p align="center">Mis à jour le 16 avril 2018</p>
