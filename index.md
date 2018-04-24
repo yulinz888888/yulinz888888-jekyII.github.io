@@ -10,5 +10,6 @@ use-site-title: true
 
 > Cloud Computing / Software Engineering / Model Driven Engineering / Cloud Robotics
 
-### News 
+## News 
+
 {% include /news.html %}
