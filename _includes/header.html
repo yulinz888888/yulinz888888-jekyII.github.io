@@ -1,6 +1,12 @@
 <!-- TODO this file has become a mess, refactor it -->
 
 {% if page.bigimg or page.title %}
+<div itemscope itemtype="http://schema.org/Person">
+  <span itemprop="name">Yulin ZHANG</span>'s homepage <a href="http://www.yulinzhang.fr" itemprop="url">www.yulinzhang.fr</a>. 
+  I work as an <span itemprop="title">associate professor</span>
+    at <span itemprop="affiliation">University of Picardie Jules Verne
+  </span>.
+  </div>
 
 {% if page.bigimg %}
   <div id="header-big-imgs" data-num-img={% if page.bigimg.first %}{{ page.bigimg.size }}{% else %}1{% endif %}
