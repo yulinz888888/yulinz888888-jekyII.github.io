@@ -15,11 +15,8 @@ subtitle: Formation en alternance/ Formation initial à Saint Quentin
               <span class="sr-only">Twitter</span>
             </a>
             </p>
-<center>
 
 [Master robotique website](http://www.master-robotique.fr/)
-
-</center>
 
 ![Image of Robots]({{ site.baseurl }}/master/img/bandeau-IN-web.png)
 
