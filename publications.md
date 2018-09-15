@@ -46,6 +46,8 @@ A. MOKNI, M. HUCHARD, C. URTADO, S. VAUTTIER and H. Y. ZHANG. **A three-level fo
 
 A. MOKNI, M. HUCHARD, C. URTADO, S. VAUTTIER and H. Y. ZHANG. **Modélisation et vérification formelles en B des architectures logicielles à trois niveaux.** Actes de la troisième Conférence en IngénieriE du Logiciel, Catherine Dubois, Nicole Levy, Marie-Agnès Peraldi-Frati et Christelle Urtado éditeurs, pages 71-77. Paris, France, Juin 2014.
 
+Arnaud Lefray, Eddy Caron, Jonathan Rouzaud-Cornabas, Zhang Huaxi Yulin, Aline Bousquet, et al.. **Security-Aware Models for Clouds.** 22th IEEE International Symposium on High Performance Distributed Computing, Jun 2013, New York, United States. 2013.
+
 H. (Yulin) Zhang, C. Urtado, S. Vauttier, L. Zhang, M. Huchard, and B. Coulette, **Dedal-CDL: Modeling First-class Architectural Changes in Dedal.** Proceedings of the Joint 10th Working IEEE/IFIP Conference on Software Architecture & 6th European Conference on Software Architecture. Helsinki, Finland, August 2012. AR 35,7%.<a href="Papers/Zhang_WICSA12.pdf">PDF</a>
 
 H. Y. ZHANG, L. ZHANG, C. URTADO, S. VAUTTIER and M. HUCHARD. **A three-level component model in component-based software development.**  Proceedings of the 11th International Conference on Generative Programming and Component Engineering, ACM. Dresden, Germany, September 2012. AR 42,9%. <a href="Papers/Zhang_GPCE12.pdf">PDF</a>
