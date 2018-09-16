@@ -8,7 +8,7 @@ title: Research projects
 Membre du projet européen Celtic Seed4C (Secured Embedded Element for Cloud).
 Ingénieur expert.
 
-[http ://www.celticplus-seed4c.org](http ://www.celticplus-seed4c.org/)
+[http ://www.celticplus-seed4c.org](http://www.celticplus-seed4c.org/)
 
 
 ### Projet SAAMR 2014-2016
