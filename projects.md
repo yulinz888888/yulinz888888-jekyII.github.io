@@ -8,7 +8,7 @@ title: Research projects
 Membre du projet européen Celtic Seed4C (Secured Embedded Element for Cloud).
 Ingénieur expert.
 
-<a href="http ://www.celticplus-seed4c.org/">http ://www.celticplus-seed4c.org</a>
+[http ://www.celticplus-seed4c.org](http ://www.celticplus-seed4c.org/)
 
 
 ### Projet SAAMR 2014-2016
@@ -22,4 +22,4 @@ Project coordinator.
 for Resource constrained Embedded Systems Applications).
 Responsable du workpackage 3.
 
-<a href="http://www.teresa-project.org">http://www.teresa-project.org</a>
+[Site link](https://cordis.europa.eu/project/rcn/93271_en.html)
