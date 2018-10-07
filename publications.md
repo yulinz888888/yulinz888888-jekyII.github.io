@@ -28,8 +28,6 @@ J. Luo, L. Zhang and H. Y. Zhang, **Design of a cloud robotics middleware based 
 
 C. Huang, L. Zhang, T. Liu, and H.Y. Zhang, **A Control Middleware for Cloud Robotics**, 13th IEEE International Conference on Information and Automation (IEEE ICIA 2016), Ningbo, China, 2016.
 
-Lei Zhang, Huaxi (Yulin) Zhang, Zheng Fang, Xianbo Xiang, Marianne Huchard, and Rene Zapata. **Towards an architecture-centric approach to manage variability of cloud robotics.** In 6th International Workshop on Domain-Specific Languages and models for ROBotic systems (DSLROB2015), Hamburg, German, Semptember 2015.
-
 Huaxi (Yulin) Zhang, Lei Zhang, Zheng Fang, Harold Trannois, Marianne Huchard, and Rene Zapata. **CRALA: Towards a domain specific language of architecture-centric cloud robotics.** In Proc. of the 2015 IEEE Int. Conf. on Information and Automation (ICIA2015), Lijiang, China, August 2015.
 
 A. MOKNI, M. HUCHARD, C. URTADO, S. VAUTTIER and H. Y. ZHANG. **An evolution management model for multi-level component-based software architectures.** Proceedings of the 27th International Conference on Software Engineering and Knowledge Engineering. Pittsburgh, USA, July 2015. AR 30%.
@@ -45,8 +43,6 @@ A. MOKNI, M. HUCHARD, C. URTADO, S. VAUTTIER and H. Y. ZHANG. **Formal rules for
 A. MOKNI, M. HUCHARD, C. URTADO, S. VAUTTIER and H. Y. ZHANG. **A three-level formal model for software architecture evolution.** Proceedings of the 7th Seminar on Advanced Techniques &Tools for Software Evolution. L'Aquila, Italy, July 2014.
 
 A. MOKNI, M. HUCHARD, C. URTADO, S. VAUTTIER and H. Y. ZHANG. **Modélisation et vérification formelles en B des architectures logicielles à trois niveaux.** Actes de la troisième Conférence en IngénieriE du Logiciel, Catherine Dubois, Nicole Levy, Marie-Agnès Peraldi-Frati et Christelle Urtado éditeurs, pages 71-77. Paris, France, Juin 2014.
-
-Arnaud Lefray, Eddy Caron, Jonathan Rouzaud-Cornabas, Zhang Huaxi Yulin, Aline Bousquet, et al.. **Security-Aware Models for Clouds.** 22th IEEE International Symposium on High Performance Distributed Computing, Jun 2013, New York, United States. 2013.
 
 H. (Yulin) Zhang, C. Urtado, S. Vauttier, L. Zhang, M. Huchard, and B. Coulette, **Dedal-CDL: Modeling First-class Architectural Changes in Dedal.** Proceedings of the Joint 10th Working IEEE/IFIP Conference on Software Architecture & 6th European Conference on Software Architecture. Helsinki, Finland, August 2012. AR 35,7%.<a href="Papers/Zhang_WICSA12.pdf">PDF</a>
 
@@ -78,6 +74,10 @@ Engineering Conference (ASWEC'09). IEEE. Gold Coast, Australia, April 2009. <a h
 Innovation in Software Engineering (ISE'08), M.Mohammadian editor, pages 345-350, IEEE. Vienna, Austria, December 2008. <a href="Papers/Zhang_ISE.pdf" >PDF</a> <a href="Bibtex/ISE.html">Bibtex</a>
 
 ###  Workshop
+
+Lei Zhang, Huaxi (Yulin) Zhang, Zheng Fang, Xianbo Xiang, Marianne Huchard, and Rene Zapata. **Towards an architecture-centric approach to manage variability of cloud robotics.** In 6th International Workshop on Domain-Specific Languages and models for ROBotic systems (DSLROB2015), Hamburg, German, Semptember 2015.
+
+Arnaud Lefray, Eddy Caron, Jonathan Rouzaud-Cornabas, Zhang Huaxi Yulin, Aline Bousquet, et al.. **Security-Aware Models for Clouds.** 22th IEEE International Symposium on High Performance Distributed Computing, Jun 2013, New York, United States. 2013.
 
 S. Trujillo, I. Alonso, B. Hamid, D. Gonzalez, M. Blanco and H. Y. Zhang. **Towards variability support for security and dependability patterns : a case study.** In SPLC Workshops, page 27, 2011.
 

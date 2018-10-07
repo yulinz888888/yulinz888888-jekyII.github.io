@@ -2,30 +2,39 @@
 layout: page
 title: Teaching
 ---
-## Master 2
 
-OpenStack
+## Supervised Students
 
-Cloud robotics
+* Chunxin Huang, Master
+* Yang Yu, Ph.D
 
+## Current courses
+
+### Master 2
+
+* OpenStack, University of Picardie Jules Verne
+* Internet of Things Advanced, University of Picardie Jules Verne
+* Model Driven Engineering, University of Picardie Jules Verne
+* Introduction of Research, University of Picardie Jules Verne
+* Cloud robotics, University of Picardie Jules Verne
 <iframe width="560" height="315" src="https://www.youtube.com/embed/awq_LdQI2Qg?list=PLwq9V6Pk0f4JrS3YalKmEJR2GrWMqECQS?ecver=1" frameborder="0" allowfullscreen></iframe>
 
-Internet of Things Advanced
 
-Model Driven Engineering
+### Master 1
 
-## Master 1
+* Internet of Things, University of Picardie Jules Verne
+* Model Driven Engineering, University of Picardie Jules Verne
 
-Internet of Things
 
-## Licence 3
+### Licence 3
 
-Internet of Things
+* Internet of Things (Soft), University of Picardie Jules Verne
+* Python, University of Picardie Jules Verne
 
-## Old Courses
 
-Modélisation objet (Le langage UML)
+## Other Courses
 
-C++
-
-Algorithm and Programming (Algorithmique et programmation)
+* Modélisation objet (Le langage UML), The University of Toulouse, 2012
+* C++, The University of Toulouse, 2012
+* Algorithm and Programming (Algorithmique et programmation), The University of Toulouse, 2012
+* Algorithm and Programming (Algorithmique et programmation), University of Picardie Jules Verne, 2017
