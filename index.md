@@ -1,9 +1,12 @@
 ---
 layout: page
 title: Yulin ZHANG
-subtitle: Associate professor in INSSET/University of Picardie Jules Verne
 use-site-title: true
 ---
+
+Associate professor in University of Picardie Jules Verne
+
+Responsable of Intelligent Manufacturing Master, INSSET/University of Picardie Jules Verne
 
 <img src="{{ site.baseurl }}/img/bandeau.jpg" />
 
