@@ -18,7 +18,7 @@ subtitle: Formation en alternance/ Formation initial à Saint Quentin
 
 <span style="color:red">La candidature par email est toujours ouverte avant le rentrée.</span>
 
-[Master robotique website](http://www.master-robotique.fr/)
+[Master robotique website](https://www.master-robotique.fr/)
 
 ![Image of Robots]({{ site.baseurl }}/master/img/bandeau-IN-web.png)
 
