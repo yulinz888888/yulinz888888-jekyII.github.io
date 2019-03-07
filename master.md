@@ -4,7 +4,7 @@ title: Master Robotique（Master Industrie Numérique) INSSET/UPJV
 subtitle: Formation en alternance/ Formation initial à Saint Quentin
 ---
 
-<p align="center">Mis à jour le 12 juin 2018</p>
+<p align="center">Mis à jour le 07 mars 2019</p>
 
 <p align="center">
 <a href="https://twitter.com/robotics_insset" title="master robotique twitter">
@@ -16,7 +16,7 @@ subtitle: Formation en alternance/ Formation initial à Saint Quentin
             </a>
             </p>
 
-<span style="color:red">La candidature par email est toujours ouverte avant le rentrée.</span>
+<span style="color:red">La candidature par ecandidat est ouverte.</span>
 
 [Master robotique website](https://www.master-robotique.fr/)
 
@@ -34,9 +34,10 @@ subtitle: Formation en alternance/ Formation initial à Saint Quentin
 [Plaquette de la formation](http://www.insset.u-picardie.fr/images/Plaquettes/Industrie-numerique-A4-1.0.pdf)
 
 * Apprentissage par projets
-* Concevoir et développer des robots,
+* Concevoir et développer des robots
 * Concours robotique
-* Programmation et Intelligence Artificielle
+* Programmation robotique / ROS
+* Intelligence Artificielle / Programmation GPU
 * Apprendre « comment apprendre »
 
 <div class="row">
