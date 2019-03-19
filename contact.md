@@ -4,7 +4,7 @@ title: Contact
 ---
 ### Address
 
-MIS, 33 rue Saint Leu, 80039 Amiens Cedex 1, France
+LTI, INNSET/UPJV, 48 Rue d'Ostende, 02100 Saint-Quentin, France
 
 ### Tel
 
