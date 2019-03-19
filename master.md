@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: master
 title: Master Robotique（Master Industrie Numérique) INSSET/UPJV
 subtitle: Formation en alternance/ Formation initial à Saint Quentin
 ---
@@ -16,7 +16,7 @@ subtitle: Formation en alternance/ Formation initial à Saint Quentin
             </a>
             </p>
 
-<span style="color:red">La candidature par ecandidat est ouverte.</span>
+<span style="color:red">La candidature 2019 par ecandidat est ouverte.</span>
 
 [Master robotique website](https://www.master-robotique.fr/)
 
@@ -98,8 +98,8 @@ subtitle: Formation en alternance/ Formation initial à Saint Quentin
 
 |  M1 | M2 |
 | :-------- | :-------- |
-| - Capteurs et instrumentations <br/> - Robotique <br/> - Outils de modélisation mécanique <br/> - Objets connectés <br/> - Automatique des systèmes linéaires <br/> - Conception mécanique <br/> - Initiation au Cloud <br/> - Programmation et algorithmique <br/> - Outils mathématiques <br/>   | - Conception des algorithmes en temps réel <br/> - Normes et certifications <br/> - Robotique mobile <br/> - Commande des robots <br/> - Intelligence artificiel  <br/> - Architecture et OS pour la robotique <br/> - Automatique des systèmes non-linéaires <br/> - Traitement des signaux numériques <br/> - Séminaires Industriels   |
-| - Langage de programmation <br/> - Programmation et database <br/> - Outils numériques de conception <br/> - Objets connectés (avancé) <br/> - Vision et traitement d'images <br/> - Perception robotique <br/> - Management et suivi de projet <br/> - Ingénierie de développement   | - Localisation et navigation de robots <br/> - Big Data <br/> - Administration et programmation du Cloud <br/> - Séminaires Industriels <br/> - Création d’entreprise <br/>  <br/>  <br/> <br/>  |
+| - Capteurs et instrumentations <br/> - Robotique <br/> - Outils de modélisation mécanique <br/> - Objets connectés <br/> - Automatique des systèmes linéaires <br/> - Conception mécanique <br/> - ROS (Introduction) <br/> - Algorithmique / Optimisation (C++) <br/> - Outils mathématiques pour la robotique <br/>   | - Conception des algorithmes en temps réel <br/> - Normes et certifications <br/> - Robotique mobile <br/> - Commande des robots <br/> - Intelligence artificiel  <br/> - Cloud Robotics / Web services <br/> - Modélisation et Simulation Robotique / GAZEBO <br/> - Automatique des systèmes non-linéaires <br/> - Traitement des signaux numériques <br/> - Séminaires Industriels   |
+| - Langage de programmation <br/> - Programmation Robotique (AWS RoboMaker) <br/> - Robot Kinematics and Dynamics <br/> - Objets connectés (avancé) <br/> - Vision et traitement d'images <br/> - Perception robotique <br/> - Management et suivi de projet <br/> - Ingénierie de développement <br/> - Programmation GPU (CUDA Python)   | - Localisation et navigation de robots <br/> - Big Data <br/> - Research Methodology <br/> - Séminaires Industriels <br/> - Création d'entreprise/ Professionnalisation <br/>  <br/>  <br/> <br/>  |
 
 <!-- <div class="row">
   <div class="col-lg-6 col-md-8 col-xs-10 thumb">
