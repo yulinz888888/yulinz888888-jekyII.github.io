@@ -75,7 +75,7 @@ Innovation in Software Engineering (ISE'08), M.Mohammadian editor, pages 345-350
 
 ###  Workshop
 
-Lei Zhang, Huaxi (Yulin) Zhang, Zheng Fang, Xianbo Xiang, Marianne Huchard, and Rene Zapata. **Towards an architecture-centric approach to manage variability of cloud robotics.** In 6th International Workshop on Domain-Specific Languages and models for ROBotic systems (DSLROB2015), Hamburg, German, Semptember 2015.
+Lei Zhang, Huaxi (Yulin) Zhang, Zheng Fang, Xianbo Xiang, Marianne Huchard, and Rene Zapata. **Towards an architecture-centric approach to manage variability of cloud robotics.** In 6th International Workshop on Domain-Specific Languages and models for ROBotic systems (DSLROB2015), Hamburg, German, Semptember 2015.
 
 Arnaud Lefray, Eddy Caron, Jonathan Rouzaud-Cornabas, Zhang Huaxi Yulin, Aline Bousquet, et al.. **Security-Aware Models for Clouds.** 22th IEEE International Symposium on High Performance Distributed Computing, Jun 2013, New York, United States. 2013.
 
@@ -95,9 +95,11 @@ H. Y. Zhang, C. Urtado, S. Vauttier., L. Zhang and M. Huchard. **Architecture-Ce
 
 ## Presentations
 
-Mars 2014 : **Sécurité avancée dans le Cloud via OpenStack**. Meetup of OpenStack Rhône-Alpes, Lyon.  <a href="Presentations/OSMeetup.pdf" >PDF</a>
+July 2019 : **Retour d'expérience sur RoboMaker (AWS) et Docker en ROS**, SHARC2019: Software and Hardware Architectures for Robot Control, Montpellier. 
 
-Janvier 2010 : **Un langage de description d'architectures multi-dimensionnel pour l'évolution directe et la rétro-évolution de logiciels à base de composants**. Journée "évolution et Ingénierie des Modèles" (RIMEL du GDR GPL), Montpellier.  <a href="Presentations/Seminair.pdf" >PDF</a>
+Mars 2014 : **Sécurité avancée dans le Cloud via OpenStack**. Meetup of OpenStack Rhône-Alpes, Lyon.  
+
+Janvier 2010 : **Un langage de description d'architectures multi-dimensionnel pour l'évolution directe et la rétro-évolution de logiciels à base de composants**. Journée "évolution et Ingénierie des Modèles" (RIMEL du GDR GPL), Montpellier.  
 
 April 2009&nbsp;: **Connector-driven process for the gradual evolution of component-based
 software.** In Proceedings of the 20th Australian Software Engineering
