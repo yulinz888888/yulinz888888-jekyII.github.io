@@ -6,7 +6,9 @@ title: Teaching
 ## Supervised Students
 
 ### Current
-* 2020: Corentin Locqueneux, Ph.D, Person following by AI-based Robot
+* Corentin Locqueneux, Ph.D, Person following by AI-based Robot
+Co-supervise with: Javier Civera, University of Zaragoza, Spain (http://webdiis.unizar.es/~jcivera/)
+Begin from: 2020
 
 ### Graduated 
 * Chunxin Huang, Master
@@ -16,10 +18,10 @@ title: Teaching
 
 ### Master 2
 
+* Google Cloud Platform, University of Picardie Jules Verne
 * OpenStack, University of Picardie Jules Verne
 * Internet of Things Advanced, University of Picardie Jules Verne
 * Model Driven Engineering, University of Picardie Jules Verne
-* Introduction of Research, University of Picardie Jules Verne
 * Cloud robotics, University of Picardie Jules Verne
 <iframe width="560" height="315" src="https://www.youtube.com/embed/awq_LdQI2Qg?list=PLwq9V6Pk0f4JrS3YalKmEJR2GrWMqECQS?ecver=1" frameborder="0" allowfullscreen></iframe>
 
@@ -27,7 +29,8 @@ title: Teaching
 ### Master 1
 
 * Internet of Things, University of Picardie Jules Verne
-* Model Driven Engineering, University of Picardie Jules Verne
+* ROS, University of Picardie Jules Verne
+* GPU computing, University of Picardie Jules Verne
 
 
 ### Licence 3
