@@ -6,7 +6,7 @@ title: Teaching
 ## Supervised Students
 
 ### Current
-* Corentin Locqueneux, Ph.D, Person following by AI-based Robot
+* 2020: Corentin Locqueneux, Ph.D, Person following by AI-based Robot
 
 ### Graduated 
 * Chunxin Huang, Master
