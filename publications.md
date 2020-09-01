@@ -19,8 +19,9 @@ B. Hamid, H. Y. Zhang, J. Geisel & D. Gonzalez. **First Experiment on Modeling S
 Lifecycle Process in Railway Systems.** International Journal of Dependable and
 Trustworthy Information Systems (IJDTIS), vol. 2, no. 2, pages 17-39, 2011.
 
-
 ### Conference
+
+H. Zhang and L. Zhang, **Cloud Robotics Architecture: Trends and Challenges**, 2019 IEEE International Conference on Service-Oriented System Engineering (SOSE), San Francisco East Bay, CA, USA, 2019, pp. 362-3625.
 
 Zheng Guoxian, Zhang Lei, Zhang Yulin, Bo Ding, **Design of an Indoor Exploration and Multi-Objective Navigation System**, 2018 37th Chinese Control Conference, Wuhan, China.
 
@@ -46,34 +47,33 @@ A. MOKNI, M. HUCHARD, C. URTADO, S. VAUTTIER and H. Y. ZHANG. **Modélisation et
 
 H. (Yulin) Zhang, C. Urtado, S. Vauttier, L. Zhang, M. Huchard, and B. Coulette, **Dedal-CDL: Modeling First-class Architectural Changes in Dedal.** Proceedings of the Joint 10th Working IEEE/IFIP Conference on Software Architecture & 6th European Conference on Software Architecture. Helsinki, Finland, August 2012. AR 35,7%.<a href="Papers/Zhang_WICSA12.pdf">PDF</a>
 
-H. Y. ZHANG, L. ZHANG, C. URTADO, S. VAUTTIER and M. HUCHARD. **A three-level component model in component-based software development.**  Proceedings of the 11th International Conference on Generative Programming and Component Engineering, ACM. Dresden, Germany, September 2012. AR 42,9%. <a href="Papers/Zhang_GPCE12.pdf">PDF</a>
+H. Y. ZHANG, L. ZHANG, C. URTADO, S. VAUTTIER and M. HUCHARD. **A three-level component model in component-based software development.** Proceedings of the 11th International Conference on Generative Programming and Component Engineering, ACM. Dresden, Germany, September 2012. AR 42,9%. <a href="Papers/Zhang_GPCE12.pdf">PDF</a>
 
 L. Zhang, H. Zhang, Z. Fang, R. Zapata & M. Huchard. **A Domain Specific Architecture
 Description Language for Autonomous Mobile Robots.** In Information and Automation
-(ICIA), 2012 International Conference on, pages 283-288. IEEE, 2012.  
+(ICIA), 2012 International Conference on, pages 283-288. IEEE, 2012.
 
+H. Y. Zhang, B. Hamid and D. Gouteux. **A metamodel for representing safety lifecycle development process.** In Proceedings of the 6th International Conference on Software Engineering Advances (ICSEA'11), Barcelona, Spain, October 2011. AR 30%. <a href="Papers/Zhang_ICSEA11.pdf">PDF</a>
 
- H. Y. Zhang, B. Hamid and D. Gouteux. **A metamodel for representing safety lifecycle development process.** In Proceedings of the 6th International Conference on Software Engineering Advances (ICSEA'11), Barcelona, Spain, October 2011. AR 30%. <a href="Papers/Zhang_ICSEA11.pdf">PDF</a>
+H. Y. ZHANG, C. URTADO and S. VAUTTIER. **Architecture-centric component-based development needs a three-level ADL.** Proceedings of the 4th European Conference on Software Architecture (ECSA'10), M. A. Babar and I. Gorton editors, pages 295-310. LNCS 6285, Springer. Copenhagen, Denmark, August 2010. AR 25,3%. <a href="Papers/Zhang_ECSA.pdf">PDF</a>
 
-  H. Y. ZHANG, C. URTADO and S. VAUTTIER. **Architecture-centric component-based development needs a three-level ADL.** Proceedings of the 4th European Conference on Software Architecture (ECSA'10), M. A. Babar and I. Gorton editors, pages 295-310. LNCS 6285, Springer. Copenhagen, Denmark, August 2010. AR 25,3%. <a href="Papers/Zhang_ECSA.pdf">PDF</a>
-
-  H. Y. ZHANG, C. URTADO and S. VAUTTIER. **Architecture-centric development and
+H. Y. ZHANG, C. URTADO and S. VAUTTIER. **Architecture-centric development and
 evolution processes for component-based software.** In Proceedings of 22nd International Conference on
 Software Engineering and Knowledge Engineering (SEKE'10), San Francisco Bay, USA, July 2010. <a href="Papers/Zhang_SEKE.pdf" >PDF</a>
 
-  H. Y. ZHANG, C. URTADO and S. VAUTTIER. **Dedal: un ADL à trois
-    dimensions pour gérer l'évolution des architectures à base de composants.** In Proceedings of Conférence Francophone sur les
+H. Y. ZHANG, C. URTADO and S. VAUTTIER. **Dedal: un ADL à trois
+dimensions pour gérer l'évolution des architectures à base de composants.** In Proceedings of Conférence Francophone sur les
 Architectures Logicielles (CAL2010). <a href="Papers/Zhang_CAL.pdf" >PDF</a>
 
-  H. Y. ZHANG, C. URTADO and S. VAUTTIER. **Connector-driven process for the gradual evolution
-    of component-based software.** In Proceedings of the 20th Australian Software
+H. Y. ZHANG, C. URTADO and S. VAUTTIER. **Connector-driven process for the gradual evolution
+of component-based software.** In Proceedings of the 20th Australian Software
 Engineering Conference (ASWEC'09). IEEE. Gold Coast, Australia, April 2009. <a href="Papers/Zhang_ASWEC.pdf" >PDF</a> <a href="Bibtex/Aswec.html">Bibtex</a>
 
-  H. Y. ZHANG, C. URTADO and S. VAUTTIER. **Connector-driven gradual and dynamic software
-    assembly evolution.** In Proceedings of the International Conference on
+H. Y. ZHANG, C. URTADO and S. VAUTTIER. **Connector-driven gradual and dynamic software
+assembly evolution.** In Proceedings of the International Conference on
 Innovation in Software Engineering (ISE'08), M.Mohammadian editor, pages 345-350, IEEE. Vienna, Austria, December 2008. <a href="Papers/Zhang_ISE.pdf" >PDF</a> <a href="Bibtex/ISE.html">Bibtex</a>
 
-###  Workshop
+### Workshop
 
 Lei Zhang, Huaxi (Yulin) Zhang, Zheng Fang, Xianbo Xiang, Marianne Huchard, and Rene Zapata. **Towards an architecture-centric approach to manage variability of cloud robotics.** In 6th International Workshop on Domain-Specific Languages and models for ROBotic systems (DSLROB2015), Hamburg, German, Semptember 2015.
 
@@ -95,11 +95,11 @@ H. Y. Zhang, C. Urtado, S. Vauttier., L. Zhang and M. Huchard. **Architecture-Ce
 
 ## Presentations
 
-July 2019 : **Retour d'expérience sur RoboMaker (AWS) et Docker en ROS**, SHARC2019: Software and Hardware Architectures for Robot Control, Montpellier. 
+July 2019 : **Retour d'expérience sur RoboMaker (AWS) et Docker en ROS**, SHARC2019: Software and Hardware Architectures for Robot Control, Montpellier.
 
-Mars 2014 : **Sécurité avancée dans le Cloud via OpenStack**. Meetup of OpenStack Rhône-Alpes, Lyon.  
+Mars 2014 : **Sécurité avancée dans le Cloud via OpenStack**. Meetup of OpenStack Rhône-Alpes, Lyon.
 
-Janvier 2010 : **Un langage de description d'architectures multi-dimensionnel pour l'évolution directe et la rétro-évolution de logiciels à base de composants**. Journée "évolution et Ingénierie des Modèles" (RIMEL du GDR GPL), Montpellier.  
+Janvier 2010 : **Un langage de description d'architectures multi-dimensionnel pour l'évolution directe et la rétro-évolution de logiciels à base de composants**. Journée "évolution et Ingénierie des Modèles" (RIMEL du GDR GPL), Montpellier.
 
 April 2009&nbsp;: **Connector-driven process for the gradual evolution of component-based
 software.** In Proceedings of the 20th Australian Software Engineering
