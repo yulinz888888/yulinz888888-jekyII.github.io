@@ -5,16 +5,16 @@ title: Research projects
 
 ### Projet Aible 2020-2023
 
-Member of Cloud of Interreg European project Aible (An upper-limb rehabilitation exoskeleton robot based on AI and cloud
+Project initiator, Member of Interreg European project Aible (An upper-limb rehabilitation exoskeleton robot based on AI and cloud
 computing)
 
-Project initiator, Leader of Cloud team and responsable of WP 1
+Coordiantor of UPJV Team, Leader of WP 1
 
 ### Project PF 2020-2023
 
 Coordinator of region project: AI-based person following
 
-Collaborate with Javier Civera, University of Zaragoza, Spain
+Collaborate with Javier Civera, University of Saragossa, Spain
 
 ### Projet Seed4C 2012-2015
 

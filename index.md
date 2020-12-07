@@ -14,6 +14,6 @@ Google Cloud Faculty Expert
 
 > Cloud Computing / Software Engineering / Model Driven Engineering / Cloud Robotics
 
-## News 
+<!-- ## News 
 
-{% include /news.html %}
+{% include /news.html %} -->
