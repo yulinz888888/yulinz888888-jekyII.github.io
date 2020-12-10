@@ -7,7 +7,7 @@ title: Research projects
 
 Project initiator, Member of Interreg European project Aible (An upper-limb rehabilitation exoskeleton robot based on AI and cloud computing)
 
-Coordiantor of UPJV Team, Leader of WP 1
+Coordinator of UPJV Team, Leader of WP 1
 
 European project Interreg, 5 millions, 12 partners
 
