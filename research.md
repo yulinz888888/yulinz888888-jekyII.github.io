@@ -19,6 +19,7 @@ Domain specific engineering"
 * Multi-robot cooperative localization method based on position mapping algorithm, Lei ZHANG, Huaxi (Yulin) ZHANG, Tengfei LIU, Zheng FANG, Quan XU, Heqiang YU. CN104331078A
 
 ### Honors
+* Google Cloud Faculty Expert
 * Microsoft Azure for Research Award, 2016-2017, 20000$
 * Best paper finalist ICIA2015: CRALA: Towards a domain specific language of architecture-centric cloud robotics.
 
