@@ -27,6 +27,7 @@ Domain specific engineering"
 * Program Chair ICCR2016, ICCR2018 (International Conference on Cloud and Robotics)
 * General Chiar ICCR2017 (International Conference on Cloud and Robotics)
 * Steering Chair ICCR 2015-2018
+* Program Committee Membership, MODELSWARD 2021
 
 ### Professional Associations
 * Responsable for Database of RobAgri, French National Association for Robotics and Argiculture
