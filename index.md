@@ -14,3 +14,5 @@ Google Cloud Faculty Expert
 
 > Cloud Computing / Software Engineering / Model Driven Engineering / Cloud Robotics
 
+### News
+> Program Committee Membership, MODELSWARD 2021
