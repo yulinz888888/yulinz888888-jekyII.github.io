@@ -10,10 +10,11 @@ Program Director of Master Intelligent Manufacturing (Robotics), INSSET/ Univers
 
 Google Cloud Faculty Expert
 
+[Robotics, AI & 3D printing Team!](https://www.crispi-upjv.fr/)
+
 <img src="{{ site.baseurl }}/img/bandeau.jpg" />
 
 > Cloud Computing / Software Engineering / Model Driven Engineering / Cloud Robotics
-> https://www.crispi-upjv.fr/
 
 ### News
 > Program Committee Membership, MODELSWARD 2021
