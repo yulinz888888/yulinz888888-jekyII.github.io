@@ -4,8 +4,7 @@ title: Yulin ZHANG
 use-site-title: true
 ---
 
-Associate professor in University of Picardie Jules Verne
-[Robotics, AI & 3D printing Team](https://www.crispi-upjv.fr/)
+Associate professor, [Robotics, AI & 3D printing Team](https://www.crispi-upjv.fr/) in University of Picardie Jules Verne
 
 
 Program Director of [Master Intelligent Manufacturing (Robotics)](https://www.master-robotique.fr/), INSSET/ University of Picardie Jules Verne
