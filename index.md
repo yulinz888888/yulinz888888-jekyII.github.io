@@ -13,6 +13,7 @@ Google Cloud Faculty Expert
 <img src="{{ site.baseurl }}/img/bandeau.jpg" />
 
 > Cloud Computing / Software Engineering / Model Driven Engineering / Cloud Robotics
+> https://www.crispi-upjv.fr/
 
 ### News
 > Program Committee Membership, MODELSWARD 2021
