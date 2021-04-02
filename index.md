@@ -5,12 +5,14 @@ use-site-title: true
 ---
 
 Associate professor in University of Picardie Jules Verne
+[Robotics, AI & 3D printing Team](https://www.crispi-upjv.fr/)
 
-Program Director of Master Intelligent Manufacturing (Robotics), INSSET/ University of Picardie Jules Verne
+
+Program Director of [Master Intelligent Manufacturing (Robotics)](https://www.master-robotique.fr/), INSSET/ University of Picardie Jules Verne
+
 
 Google Cloud Faculty Expert
 
-[Robotics, AI & 3D printing Team!](https://www.crispi-upjv.fr/)
 
 <img src="{{ site.baseurl }}/img/bandeau.jpg" />
 
