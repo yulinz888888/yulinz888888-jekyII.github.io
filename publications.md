@@ -13,6 +13,8 @@ Title: A multi-dimensional architecture description language for forward and rev
 
 ### Journal
 
+Yang Yu, Xiaochuan Luo, Yuan Wang, Huaxi (Yulin) Zhang, **Estimation of boundary condition of two-dimensional nonlinear PDE with application to continuous casting.** Comput. Math. Appl. 80(12): 3082-3097 (2020).
+
 A. MOKNI, M. HUCHARD, C. URTADO, S. VAUTTIER and H. Y. ZHANG. **A formal approach for managing component-based architecture evolution.** Sci. Comput. Program. 127: 24-49 (2016), Elsevier 2016.
 
 B. Hamid, H. Y. Zhang, J. Geisel & D. Gonzalez. **First Experiment on Modeling Safety
