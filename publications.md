@@ -23,6 +23,8 @@ Trustworthy Information Systems (IJDTIS), vol. 2, no. 2, pages 17-39, 2011.
 
 ### Conference
 
+Zhao, Juntao, Xiaochuan Luo, Huaxi Zhang, Xin Wang, and Weichao Wang. **Vision Based Target Following UGV System Using YOLOv5 and ROS Platform**. In Proceedings of 2022 International Conference on Autonomous Unmanned Systems (ICAUS 2022), pp. 281-291. Singapore: Springer Nature Singapore, 2023.
+
 H. Zhang and L. Zhang, **Cloud Robotics Architecture: Trends and Challenges**, 2019 IEEE International Conference on Service-Oriented System Engineering (SOSE), San Francisco East Bay, CA, USA, 2019, pp. 362-3625.
 
 Zheng Guoxian, Zhang Lei, Zhang Yulin, Bo Ding, **Design of an Indoor Exploration and Multi-Objective Navigation System**, 2018 37th Chinese Control Conference, Wuhan, China.
