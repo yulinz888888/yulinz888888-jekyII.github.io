@@ -7,7 +7,7 @@ title: Publications
 
 ### Dissertation
 
-Title: A multi-dimensional architecture description language for forward and reverse evolution of component-based software <a href="Papers/YulinMyThesis.pdf">PDF</a> **Defense**
+Title: A multi-dimensional architecture description language for forward and reverse evolution of component-based software
 
 ## Publications
 
