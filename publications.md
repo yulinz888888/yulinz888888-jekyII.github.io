@@ -11,6 +11,7 @@ Title: A multi-dimensional architecture description language for forward and rev
 
 ## Publications
 
+<!-- chapter -->
 ### Journal
 
 Yang Yu, Xiaochuan Luo, Yuan Wang, Huaxi (Yulin) Zhang, **Estimation of boundary condition of two-dimensional nonlinear PDE with application to continuous casting.** Comput. Math. Appl. 80(12): 3082-3097 (2020).
@@ -22,6 +23,7 @@ Lifecycle Process in Railway Systems.** International Journal of Dependable and
 Trustworthy Information Systems (IJDTIS), vol. 2, no. 2, pages 17-39, 2011.
 
 ### Conference
+<!-- ISDA -->
 
 Lucien Ngale, Eddy Caron, Huaxi Zhang, Mélanie Fontaine. **Simulation-Based Estimation of Resource Needs in Fog Robotics Infrastructures**. 13th International Conference on Cloud Computing and Services Science, Apr 2023, Prague, Czech Republic. pp.100-111.
 
